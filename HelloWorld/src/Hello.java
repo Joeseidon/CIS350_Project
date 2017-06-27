@@ -16,7 +16,7 @@ public class Hello {
 		
 		System.out.println("This is a well known fact.");
 		
-		
+		System.out.println("Thanks guys.");
 	}
 
 }
